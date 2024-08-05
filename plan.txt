@@ -1,0 +1,87 @@
+6/21/2024- Friday
+Plan today!!!!
+
+1. Rotate to centerline
+2. Implement new file format
+2.5 Abstract to mesh
+3. Iteratively rotate
+4. Tweak visuals
+
+6/30/2024- Sunday
+Debrief for when I wake up:
+* test individual centerline diameter compute
+* Specifically datmean and dirVector getting for slices
+it seems like normal diameter chunking works
+but I don't fully trust it yet. Look through the 
+loops for bugs
+
+This research will aid in the visualization
+of small structures and aid in the 
+development of microchannel cooling.
+
+Can changing the parameters of the CT-Scan processing
+of a DMLS produced microchannel change how accurate the regenerated model is and to
+what extent does it improve the model?
+
+As electronics
+become increasingly powerful and miniaturized, heat dissipation
+becomes a more important problem to address. This has resulted in the need for
+cooling methods to become smaller and thereby more complex to manufacture.
+DMLS offers the flexibility to achieve such designs due to its additive manufacturing nature,
+which can build shapes that are harder for other manufacturing methods to achieve.
+However, DMLS builds result in some rough surfaces, depending on build orientation.
+Many studies have explored the quality of DMLS prints and accurate visualization methodologies are important for
+evaluating the results of such work. While there have been studies exploring various factors that
+can affect the precision of scans based on things like material and thickness, my research
+will attempt to find the optimal parameters for processing the scans in order to
+provide the most accurate separation of materials. Such improvements could be generalized
+towards any work involving the need of high precision computed imagery.
+
+In my research, I aim to find the optimal parameters for processing scans to provide
+the most accurate separation of materials. Direct metal laser sintering (DMLS) is a 
+manufacturing process that can build shapes that are harder for other manufacturing methods 
+to achieve, making it useful for complex cooling systems for electronics. However, DMLS builds 
+can result in rough surfaces, and precise visualization is important in evaluating the results 
+of DMLS prints. While there have been studies exploring various factors that can affect the precision 
+of scans, my work will focus on finding the optimal parameters for scan processing. Such 
+improvements could be generalized to any work involving high precision computed imagery.
+
+In my research, I will find the optimal thresholding parameters for processing scans to find the most
+accurate separation of materials. Direct Metal Laser Sintering (DMLS) is a manufacturing 
+process that is more flexible than other manufacturing methods. It can build shapes that
+are harder for other methods to produce, which makes it useful for complex microchannels for 
+electronics cooling systems. However, DMLS builds can result in rough surfaces depending on 
+factors like build orientation, and accurate visualization is important for evaluating the 
+results of DMLS prints. While studies have explored the factors affecting the precision of 
+the scans, my research will attempt to find the optimal parameters for post scan processing 
+of the images. These improvements could be generalized to any work involving high precision 
+computed imagery.
+
+Someone whos not in your field but a similar one
+A research proposal is an argument
+
+Rhetorical situation:
+    Who are we writing for and their chars as an audience?
+
+Whats in a proposal?
+    Title
+    Abstract
+    Intro (statment of prob, signififcance, and research questions)
+    Background, literature review
+
+Show the intellectual merit of your work/establishing novelty
+
+1200_40.wrl = 948.3313483561436
+1200_50.wrl = 974.1914204477893
+1200_60.wrl = 1005.1699652731631
+1200_70.wrl = 1094.2764596798531
+1600_40.wrl = 970.2984531883724
+1600_50.wrl = 970.8233914027012
+1600_60.wrl = 974.104695100708
+1600_70.wrl = 1016.7987183711829
+800_30.wrl = 745.4860787748462
+800_40.wrl = 860.6793769557486
+800_50.wrl = 978.165608672392
+800_60.wrl = 1060.9909730210295
+800_70.wrl = 1128.4358998841176
+800_80.wrl = 1158.8556689707452
